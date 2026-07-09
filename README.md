@@ -77,10 +77,12 @@
 
 ```bash
 # 1. Клонируйте репозиторий
-git clone https://github.com/ваш_логин/HACK_TV.git
+git clone https://github.com/FrysersYT/HACK_TV.git
 
 # 2. Перейдите в папку
 cd HACK_TV
 
 # 3. Запустите программу
 HACK_TV.exe
+
+> Либо скачайте файл из https://github.com/FrysersYT/HACK_TV.git (официально) и запускайте уже от именни Администратора
