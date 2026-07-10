@@ -28,8 +28,7 @@
 
 | Главное окно | Настройки |
 |:---:|:---:|
-| <img width="1115" height="654" alt="изображение" src="https://github.com/user-attachments/assets/1c4a67c1-4825-4908-beb3-987b88746f7a" />
-" /> | <img width="582" height="267" alt="Настройки" src="https://github.com/user-attachments/assets/773d52a2-eee2-4e5f-a4a8-0ffc45489ca8" /> |
+| <img width="1115" height="654" alt="Главный интерфейс" src="https://github.com/user-attachments/assets/1c4a67c1-4825-4908-beb3-987b88746f7a" /> | <img width="582" height="267" alt="Настройки" src="https://github.com/user-attachments/assets/773d52a2-eee2-4e5f-a4a8-0ffc45489ca8" /> |
 
 > **💡 Интерфейс интуитивно понятен:** все основные функции доступны в один клик.
 
@@ -46,7 +45,7 @@
 | **1** | Скачайте файл `HACK_TV.exe` | 📥 |
 | **2** | Переместите на **Рабочий стол** | 🖱️ |
 | **3** | Нажмите **ПКМ** → **«Запуск от имени администратора»** | <img width="300" alt="Запуск от администратора" src="https://github.com/user-attachments/assets/ed5e8987-52b4-457b-925d-a9829b8cd715" /> |
-| **4** | Пароль **HD** | ☀ |
+| **4** | Введите пароль: **HD** | 🔑 |
 
 ---
 
@@ -77,6 +76,8 @@
 
 ## ⚙️ Установка
 
+### Способ 1: Клонирование репозитория (для разработчиков)
+
 ```bash
 # 1. Клонируйте репозиторий
 git clone https://github.com/FrysersYT/HACK_TV.git
@@ -86,5 +87,3 @@ cd HACK_TV
 
 # 3. Запустите программу
 HACK_TV.exe
-
-Либо скачайте файл из https://github.com/FrysersYT/HACK_TV.git (официально) и запускайте уже от именни Администратора
