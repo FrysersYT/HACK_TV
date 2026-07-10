@@ -28,7 +28,8 @@
 
 | Главное окно | Настройки |
 |:---:|:---:|
-| <img width="1140" height="662" alt="Главный интерфейс" src="https://github.com/user-attachments/assets/e604a80e-6de9-4a8c-ae19-3abdf5aa1afb" /> | <img width="582" height="267" alt="Настройки" src="https://github.com/user-attachments/assets/773d52a2-eee2-4e5f-a4a8-0ffc45489ca8" /> |
+| <img width="1115" height="654" alt="изображение" src="https://github.com/user-attachments/assets/1c4a67c1-4825-4908-beb3-987b88746f7a" />
+" /> | <img width="582" height="267" alt="Настройки" src="https://github.com/user-attachments/assets/773d52a2-eee2-4e5f-a4a8-0ffc45489ca8" /> |
 
 > **💡 Интерфейс интуитивно понятен:** все основные функции доступны в один клик.
 
